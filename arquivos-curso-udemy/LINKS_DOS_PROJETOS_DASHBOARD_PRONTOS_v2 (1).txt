@@ -1,0 +1,33 @@
+
+LINK PARA AS DASHBOARDS PRONTAS
+DESENVOLVIDO POR: DANILO MACIEL - GESTOR BI
+
+www.ytonihon.com.br
+
+
+DICAS: copie o link desejado e cole no seu navegador para visualizar a DASHBOARD
+============================================
+DASHBOARD RH - 
+
+https://app.powerbi.com/view?r=eyJrIjoiN2FjYTFhNGMtZTkzNy00NDlkLWE3MWItZTcwYmNmMjVlYjkyIiwidCI6IjhiNGY5MjIwLWNjYWYtNDNiOS1hZWQ1LTlmMDFkZTIxMDc2YiJ9&pageName=ReportSectiona61691dd82523776d3e7
+
+============================================
+DASHBOARD RELATÓRIO DE VENDAS - v2
+
+https://app.powerbi.com/view?r=eyJrIjoiYTUyNWEzZTYtZDU2Mi00MjgwLTg5YTEtYjBjOWY2MThjNGU4IiwidCI6IjhiNGY5MjIwLWNjYWYtNDNiOS1hZWQ1LTlmMDFkZTIxMDc2YiJ9
+
+============================================
+DASHBOARD RELATÓRIO HOSPITALAR - 
+
+https://app.powerbi.com/view?r=eyJrIjoiODViN2RhMDYtYjZjZC00MzQxLThhMTgtNDZkNjI4OTE5OTM3IiwidCI6IjhiNGY5MjIwLWNjYWYtNDNiOS1hZWQ1LTlmMDFkZTIxMDc2YiJ9&pageName=ReportSection33b4d2969b5463740079
+============================================
+DASHBOARD NPS - 
+
+https://app.powerbi.com/view?r=eyJrIjoiNzUyODRiYjctMzQ2ZS00ZmEyLWI3YWMtYTExYzM2ZGNkZDIyIiwidCI6IjhiNGY5MjIwLWNjYWYtNDNiOS1hZWQ1LTlmMDFkZTIxMDc2YiJ9&pageName=ReportSection6f8c81190cd42ea846da
+
+============================================
+MAPA CIDADE PÚBLICO -
+
+https://app.powerbi.com/view?r=eyJrIjoiMTk1ZDkxYjUtYjFjZi00ODIyLWE4MzAtODUzZjM2OWY0ZjY2IiwidCI6IjhiNGY5MjIwLWNjYWYtNDNiOS1hZWQ1LTlmMDFkZTIxMDc2YiJ9&pageName=ReportSection
+
+
